@@ -37,7 +37,13 @@ This project answers:
 -   ORDER BY
 -   Aliases
 -   Calculated fields
+## 📊 Data Visualization
 
+### Revenue by Product
+
+![Revenue by Product](revenue_by_product.png)
+
+This visualization compares revenue across products. Laptop generated the highest revenue at $6,000, making it the strongest contributor to total sales revenue in the dataset.
 ## 🔎 Key Insights
 
 -   The dataset contains **20 orders**.
